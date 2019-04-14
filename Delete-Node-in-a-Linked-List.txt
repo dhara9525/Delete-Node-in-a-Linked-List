@@ -1,4 +1,5 @@
 Source of description: Leetcode
+Submission Detail: 41 / 41 test cases passed.
 Program: Delete a node (except the tail) in a singly linked list
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
 
